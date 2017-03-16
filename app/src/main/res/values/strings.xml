@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySQLApplication</string>
+    <string name="main_text">Todo List</string>
+    <string name="add_new">Add new menu</string>
+    <string name="add_new_text_title">Add New Task</string>
+    <string name="add_new_text_hint">ADD NEW TASK</string>
+    <string name="edit_new_text_hint">EDIT Todo List</string>
+    <string name="edit_new_text_title">EDIT Taske</string>
+    <string name="delete_text_title">Delete !</string>
+</resources>
